@@ -1,5 +1,7 @@
 # Crystal’s English
 
+**安装网址：https://zenglingdingblue-ui.github.io/crystals-english/** （GitHub Pages，仓库 `zenglingdingblue-ui/crystals-english`，推送到 `main` 即自动更新）
+
 为 Crystal 定制的职场英文语境词库 App。纯离线、无账号、无后台，所有词库和学习进度都只在手机本地。
 
 ## 这是什么样的 App
